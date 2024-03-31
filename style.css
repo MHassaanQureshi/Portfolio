@@ -1,0 +1,94 @@
+*{
+    font-family:cursive;
+}
+body{
+    background-color: purple;
+    background-image: url("34344965_hol3.jpg");
+}
+
+.navbar-bg{
+    background-color: rgb(101, 19, 145);
+}
+.top-text{
+    color: wheat;
+}
+#t1{
+    margin-left: 3rem;
+    margin-top: 5rem;
+    font-size: 34px;
+}
+#t2{
+    margin-left: 3rem;
+    margin-top: 1rem;
+    font-size: 25px;
+}
+#t3{
+    margin-left: 3rem;
+    margin-top: 1rem;
+    font-size: 25px;
+}
+
+#about-img{
+    margin-top: -8rem;
+    width: 10rem;
+    margin-left: 22rem;
+}
+#about-text{
+    background-color: rgb(101, 19, 145);
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    
+}
+#t4{
+    color: wheat;
+    font-size: 3rem;
+    margin-top: 2rem;
+    margin-left: 10rem;
+
+}
+#t5{
+    color: wheat;
+    font-size: 2rem;
+    margin-top: 15px;
+    
+    
+}
+
+.skills{
+    margin-top: 4rem;
+
+}
+.progress{
+    margin-top: 1rem;
+    background-color: rgb(101, 19, 145);
+}
+#skill{
+    color: wheat;
+    font-size: 4rem;
+}
+.skill1{
+    color: wheat;
+}
+
+.Previous-Work{
+    color: wheat;
+    background-color: rgb(101, 19, 145);
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+    margin-top: 4rem;
+
+}
+#Work-head{
+    font-size: 3rem;
+    margin-left: 8rem;
+}
+#t6{
+    margin-top: 2rem;
+    font-size: 2rem;
+}
