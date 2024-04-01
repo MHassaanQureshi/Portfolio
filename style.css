@@ -2,8 +2,8 @@
     font-family:cursive;
 }
 body{
-    background-color: purple;
-    background-image: url("34344965_hol3.jpg");
+    background-color: black
+    
 }
 
 .navbar-bg{
@@ -148,4 +148,155 @@ body{
 #Facebook{
     margin-top: -12rem;
     margin-left: 20rem;
+}
+
+@media screen and (min-width: 535px){
+    body{
+        background-color: black
+        
+    }
+    
+    .navbar-bg{
+        background-color: rgb(101, 19, 145);
+        width: 100%;
+    }
+    .top-text{
+        color: wheat;
+    }
+    #t1{
+        margin-left: 20rem;
+        margin-top: 5rem;
+        font-size: 40px;
+    }
+    #t2{
+        margin-left: 20rem;
+        margin-top: 1rem;
+        font-size: 35px;
+    }
+    #t3{
+        margin-left: 20rem;
+        margin-top: 1rem;
+        font-size: 35px;
+    }
+    
+    #about-img{
+        margin-top: -10rem;
+        width: 10rem;
+        margin-left: 45rem;
+    }
+    #about-text{
+        background-color: rgb(101, 19, 145);
+        border-radius: 25px;
+        -webkit-border-radius: 25px;
+        -moz-border-radius: 25px;
+        -ms-border-radius: 25px;
+        -o-border-radius: 25px;
+        width: 100%;
+        height: 300px;
+        
+        
+    }
+    #t4{
+        color: wheat;
+        font-size: 3rem;
+        margin-top: 4rem;
+        margin-left: 10rem;
+    
+    }
+    #t5{
+        color: wheat;
+        font-size: 2rem;
+        margin-top: 15px;
+        
+        
+    }
+    
+    .skills{
+        margin-top: 4rem;
+    
+    }
+    .progress{
+        margin-top: 1rem;
+        background-color: rgb(101, 19, 145);
+        width: 530px;
+    }
+    #skill{
+        color: wheat;
+        font-size: 4rem;
+    }
+    .skill1{
+        color: wheat;
+    }
+    
+    .Previous-Work{
+        color: wheat;
+        background-color: rgb(101, 19, 145);
+        border-radius: 25px;
+        -webkit-border-radius: 25px;
+        -moz-border-radius: 25px;
+        -ms-border-radius: 25px;
+        -o-border-radius: 25px;
+        margin-top: 4rem;
+        width: 100%;
+        height: 300px;
+    
+    }
+    #Work-head{
+        font-size: 3rem;
+        margin-left: 6rem;
+    }
+    #t6{
+        margin-top: 2rem;
+        font-size: 2rem;
+    }
+    
+    .contact-section{
+        background-color:rgb(101, 19, 145);
+        margin-top: 4rem;
+        width: 100%;
+    
+    }
+    #contact-head{
+        color: wheat;
+        font-size: 4rem;
+        margin-top: 2rem;
+        margin-left: 25rem;
+    }
+    #linkdin{
+        margin-top: 3rem;
+        margin-left: 2rem;
+    
+    }
+    #linkdin-logo{
+        width: 8rem;
+        height: 8rem;
+    }
+    #button-link{
+        background-color: transparent;
+        border: none;
+    }
+    #link-text{
+        color: wheat;
+        font-size: 3rem;
+    
+    }
+    #github{
+        margin-top: -12rem;
+        margin-left: 20rem;
+    }
+    
+    #instagram{
+        margin-top: -12rem;
+        margin-left: 40rem;
+    
+    }
+    #insta-text{
+        margin-left: -2rem;
+        color: wheat;
+        font-size: 3rem;
+    }
+    #Facebook{
+        margin-top: -12rem;
+        margin-left: 60rem;
+    }
 }
